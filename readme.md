@@ -91,9 +91,3 @@ This project is actively being developed to transition from a simulated orchestr
 
 ---
 
-This README acts as a massive billboard for your engineering mindset. It shows you understand not just how to string prompts together, but how to build safe, observable, and scalable systems.
-
-```
-
-If you want, I can also make a **more visually appealing version** with badges, emojis, collapsible sections, and example screenshots for a polished GitHub presentation. That can make it pop in a real repo. Do you want me to do that next?
-```
