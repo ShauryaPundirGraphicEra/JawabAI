@@ -1,6 +1,4 @@
-Here’s your text fully formatted as a **`README.md`** in proper Markdown syntax, cleaned up for readability and consistency:
 
-````markdown
 # 🛡️ Enterprise ITSM Agentic Orchestrator
 
 An autonomous, event-driven IT Service Management (ITSM) platform built with **LangGraph**. This system moves beyond simple chatbots, implementing a multi-agent workflow to automate enterprise ticket triage, strict ITIL classification, zero-trust security routing, and automated resolution via a self-healing RAG pipeline.
@@ -32,7 +30,7 @@ Currently, this project runs locally via a Python virtual environment.
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
-````
+
 
 2. **Create and activate a virtual environment:**
 
@@ -89,5 +87,5 @@ This project is actively being developed to transition from a simulated orchestr
 * **SMTP Integration:** Connecting the resolution node to an SMTP server (like SendGrid or AWS SES) to dispatch actual automated email responses to the end-users who submitted the tickets.
 * **Containerization:** Packaging the entire architecture (Python environment, ChromaDB volumes, and SQLite persistence) into Docker and docker-compose for seamless cloud deployment (AWS EC2 / Azure).
 
----
+
 
