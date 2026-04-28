@@ -1,0 +1,9 @@
+# Databases
+chroma_db/
+*.db
+*.sqlite3
+
+# Environments & Secrets
+.venv/
+__pycache__/
+.env
